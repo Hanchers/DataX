@@ -1,0 +1,14 @@
+{
+    "name": "minioreader",
+    "parameter": {
+        "endpoint": "",
+        "accessId": "",
+        "accessKey": "",
+        "bucket": "",
+        "object": [],
+        "column": [],
+        "encoding": "",
+        "fieldDelimiter": "",
+        "compress": ""
+    }
+}

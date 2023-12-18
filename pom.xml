@@ -71,6 +71,7 @@
         <module>txtfilereader</module>
         <module>streamreader</module>
         <module>clickhousereader</module>
+        <module>minioreader</module>
 
         <module>mongodbreader</module>
         <module>tdenginereader</module>

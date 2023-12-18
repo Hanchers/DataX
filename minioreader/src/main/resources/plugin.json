@@ -1,0 +1,7 @@
+{
+    "name": "minioreader",
+    "class": "com.alibaba.datax.plugin.reader.minioreader.MinioReader",
+    "description": "",
+    "developer": "hancher.top"
+}
+
